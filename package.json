@@ -1,0 +1,20 @@
+{
+  "name": "babelmodule-awesome",
+  "version": "0.0.0",
+  "description": "This repository is exists solely for educational purposes.  It's all the code I used while writing an article about ES6 Modules, Browserify, and Babelify.  You can read that article [here](http://advantcomp.com/blog/ES6Modules/).",
+  "main": "app.js",
+  "dependencies": {
+    "babelify": "^5.0.3",
+    "browserify": "^9.0.3",
+    "gulp": "^3.8.11",
+    "gulp-babel": "^4.0.0",
+    "gulp-browserify": "^0.5.1",
+    "vinyl-source-stream": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
