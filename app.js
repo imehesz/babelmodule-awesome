@@ -1,9 +1,9 @@
 // app.js
-import ConsoleWrapper from "./modules/ConsoleWrapper";
-import QuickTestModule from "./modules/QuickTestModule";
-import Person from "./modules/PeopleModules";
-import Driver from "./modules/PeopleModules";
-import Util from "./modules/Util";
+import ConsoleWrapper from "./modules/Console/ConsoleWrapper";
+import QuickTestModule from "./modules/QuickTest/QuickTestModule";
+import Person from "./modules/People/PeopleModules";
+import Driver from "./modules/People/PeopleModules";
+import Util from "./modules/Base/Util";
 
 var util = Util.instance;
 var util2 = Util.instance;
